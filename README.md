@@ -1,0 +1,2 @@
+# redhat
+for redhat training
